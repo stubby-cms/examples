@@ -2,9 +2,9 @@
 
 ## Framework integrations
 
-1. [Next.js](https://stubby.io/docs/stubby-cms-with-next-js)
-2. [Nuxt.js](https://stubby.io/docs/stubby-cms-with-nuxt-js)
-3. [SvelteKit](https://stubby.io/docs/stubby-cms-with-svelte-kit)
+1. [Next.js](https://github.com/stubby-cms/examples/tree/main/next)
+2. [Nuxt.js](https://github.com/stubby-cms/examples/tree/main/nuxt)
+3. [SvelteKit](https://github.com/stubby-cms/examples/tree/main/svelte)
 
 
 ## License
